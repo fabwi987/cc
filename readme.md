@@ -1,4 +1,4 @@
-# Currency converter
+# CC
 
 This application converts an amount in a specific currency and return the amount in all currencies provided by the fixer.io API.
 
